@@ -1,18 +1,28 @@
-####👋 Hi, I’m Matvey
-**Backend Python/GO Developer**  
-I'm building backend services and personal projects.
+# 👋 Hi, I’m Matvey
 
-#### 🛠 Tech Stack
-Python, FastAPI, SQLAlchemy, Asyncio  
-PostgreSQL, Redis, Aiogram, Linux OC,  
-Git, Docker, TelegramAPI, RESTful API,
-WebSockets, Pytest, GO
+### Backend Python / Go Developer
 
-#### 📫 Contact
-Telegram: https://t.me/matew_1
-Email: klimanskiymatvey@gmail.com
-LinkedIn: www.linkedin.com/in/klimanskiy-m
+I build reliable backend services and develop personal projects focused on performance, scalability, and clean architecture.
 
+---
 
+## 🛠 Tech Stack
 
+**Languages & Frameworks:**
+Python, Go, FastAPI, Asyncio
 
+**Databases & Storage:**
+PostgreSQL, Redis
+
+**Tools & Technologies:**
+SQLAlchemy, Aiogram, Docker, Git, Linux
+RESTful API, WebSockets, Telegram API
+Pytest
+
+---
+
+## 📫 Contact
+
+**Telegram:** https://t.me/matew_1
+**Email:** [klimanskiymatvey@gmail.com](mailto:klimanskiymatvey@gmail.com)
+**LinkedIn:** https://www.linkedin.com/in/klimanskiy-m
