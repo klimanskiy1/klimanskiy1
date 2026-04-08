@@ -24,5 +24,7 @@ Pytest, RabbitMQ
 ## 📫 Contact
 
 **Telegram:** https://t.me/matew_1
+
 **Email:** [klimanskiymatvey@gmail.com](mailto:klimanskiymatvey@gmail.com)
+
 **LinkedIn:** https://www.linkedin.com/in/klimanskiy-m
