@@ -9,15 +9,15 @@ I build reliable backend services and develop personal projects focused on perfo
 ## 🛠 Tech Stack
 
 **Languages & Frameworks:**
-Python, Go, FastAPI, Asyncio
+Python, Go, FastAPI, Django, Gin
 
 **Databases & Storage:**
-PostgreSQL, Redis
+PostgreSQL, Redis, MySQL
 
 **Tools & Technologies:**
 SQLAlchemy, Aiogram, Docker, Git, Linux
 RESTful API, WebSockets, Telegram API
-Pytest
+Pytest, RabbitMQ
 
 ---
 
