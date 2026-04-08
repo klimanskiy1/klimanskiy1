@@ -1,5 +1,5 @@
 👋 Hi, I’m Matvey — **Backend Python/GO Developer**  
-Freelancer, building backend services and personal projects.
+I'm building backend services and personal projects.
 
 ##### 🛠 Tech Stack
 Python, FastAPI, SQLAlchemy, Asyncio  
@@ -10,5 +10,4 @@ WebSockets, Pytest, GO
 ##### 📫 Contact
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/matew_1) or Email: klimanskiymatvey@gmail.com
 
-##### ⚡ Interests
-Backend architecture, databases & APIs, AI integration
+
