@@ -8,6 +8,10 @@ Git, Docker, TelegramAPI, RESTful API,
 WebSockets, Pytest, GO
 
 ##### 📫 Contact
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/matew_1) or Email: klimanskiymatvey@gmail.com
+Telegram: https://t.me/matew_1
+Email: klimanskiymatvey@gmail.com
+LinkedIn: www.linkedin.com/in/klimanskiy-m
+
+
 
 
