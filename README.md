@@ -1,3 +1,7 @@
+Да, это обычно делают через бейджи (shields.io) — получаются аккуратные “квадратики” с логотипами. Вот тебе готовый вариант 👇
+
+---
+
 # 👋 Hi, I’m Matvey
 
 ### Backend Python / Go Developer
@@ -8,23 +12,39 @@ I build reliable backend services and develop personal projects focused on perfo
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks:**
-Python, Go, FastAPI, Django, Gin
+### Languages & Frameworks
 
-**Databases & Storage:**
-PostgreSQL, Redis, MySQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge\&logo=go\&logoColor=white)
 
-**Tools & Technologies:**
-SQLAlchemy, Aiogram, Docker, Git, Linux
-RESTful API, WebSockets, Telegram API
-Pytest, RabbitMQ
+### Databases & Storage
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge\&logo=redis\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Tools & Technologies
+
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge\&logo=sqlalchemy\&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![REST API](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
+![Telegram API](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge\&logo=pytest\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
 
 ---
 
 ## 📫 Contact
 
-**Telegram:** https://t.me/matew_1
-
+**Telegram:** [https://t.me/matew_1](https://t.me/matew_1)
 **Email:** [klimanskiymatvey@gmail.com](mailto:klimanskiymatvey@gmail.com)
+**LinkedIn:** [https://www.linkedin.com/in/klimanskiy-m](https://www.linkedin.com/in/klimanskiy-m)
 
-**LinkedIn:** https://www.linkedin.com/in/klimanskiy-m
+---
