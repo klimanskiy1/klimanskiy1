@@ -45,4 +45,4 @@ I build reliable backend services and develop personal projects focused on perfo
 
 **LinkedIn:** [https://www.linkedin.com/in/klimanskiy-m](https://www.linkedin.com/in/klimanskiy-m)
 
----
+
