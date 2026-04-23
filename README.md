@@ -39,8 +39,6 @@ I build reliable backend services and develop personal projects focused on perfo
 
 ## 📫 Contact
 
----
-
 **Telegram:** [https://t.me/matew_1](https://t.me/matew_1)
 
 **Email:** [klimanskiymatvey@gmail.com](mailto:klimanskiymatvey@gmail.com)
