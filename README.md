@@ -3,6 +3,8 @@
 Backend developer from Moscow. Right now I do two things: rebuild outdated
 websites for small businesses, and build products of my own.
 
+**Site with screenshots and details: [klimanskiy1.github.io](https://klimanskiy1.github.io/)**
+
 ### Website rebuilds
 
 I take a business's existing site — WordPress, Wix, a page builder from 2012 —
