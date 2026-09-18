@@ -1,6 +1,6 @@
 ## Matvey Klimanskiy
 
-Backend developer from Moscow. Right now I do two things: rebuild outdated
+Full-stack developer from Moscow. Right now I do two things: rebuild outdated
 websites for small businesses, and build products of my own.
 
 **Site with screenshots and details: [klimanskiy1.github.io](https://klimanskiy1.github.io/)**
